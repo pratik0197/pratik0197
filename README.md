@@ -54,6 +54,7 @@ can to the open source community. I am deeply in love with Javascript, Machine L
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/pratik0197)](https://github.com/pratik0197) 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/pratik0197)](https://gitlab.com/pratik0197) 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/pratik0197)](https://github.com/pratik0197)
+[![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter&link=https://github.com/pratik0197)](https://github.com/pratik0197)
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
   
