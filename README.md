@@ -45,7 +45,7 @@ can to the open source community. I am deeply in love with Javascript, Machine L
 
 ## Tools Technologies :fire:
 [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/pratik0197 "Visual Studio")](https://github.com/pratik0197)
-[![Android Studio](https://img.shields.io/badge/-3DDC84?style=flat&logo=Android-Studio&logoColor=white&link=https://github.com/pratik0197/"Android Studio" )](https://github.com/pratik0197/project-avocado)
+[![Android Studio](https://img.shields.io/badge/-3DDC84?style=flat&logo=Android-Studio&logoColor=white&link=https://github.com/pratik0197 "Android Studio" )](https://github.com/pratik0197)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/pratik0197)](https://github.com/pratik0197) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/pratik0197)](https://github.com/pratik0197)
