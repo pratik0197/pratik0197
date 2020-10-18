@@ -39,4 +39,13 @@ can to the open source community. I am deeply in love with Javascript, Machine L
 - React⚛️
 - Nodejs :nodejs:,Express :express: 
 - MongoDB, mySQL
-- Flutter <img src='https://emojis.slackmojis.com/emojis/images/1535719209/4570/dartlang.png?1535719209'/>
+- Flutter
+- Firebase
+- Redux
+- Python
+- Machine Learning
+
+
+<a href="https://github.com/pratik0197">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik0197&theme=radical" />
+</a>
