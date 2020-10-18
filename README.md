@@ -38,16 +38,22 @@ can to the open source community. I am deeply in love with Javascript, Machine L
 
 ## Languages :
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/pratik0197)](https://github.com/pratik0197)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/pratik0197)](https://github.com/pratik0197)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/pratik0197/nishan)](https://github.com/pratik0197/nishan)
+[![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/pratik0197)](https://github.com/pratik0197)
 
-## Technologies :fire:
-- React⚛️
-- Nodejs :nodejs:,Express :express: 
-- MongoDB, mySQL
-- Flutter
-- Firebase
-- Redux
-- Python
-- Machine Learning
+
+## Tools Technologies :fire:
+[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/pratik0197 "Visual Studio")](https://github.com/pratik0197)
+[![Android Studio](https://img.shields.io/badge/-3DDC84?style=flat&logo=Android-Studio&logoColor=white&link=https://github.com/pratik0197/project-avocado"Android Studio" )](https://github.com/pratik0197/project-avocado)
+
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/pratik0197)](https://github.com/pratik0197) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/pratik0197)](https://github.com/pratik0197)
+[![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/pratik0197)](https://github.com/pratik0197) 
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/pratik0197)](https://github.com/pratik0197) 
+[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/pratik0197)](https://github.com/pratik0197) 
+[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/pratik0197)](https://gitlab.com/pratik0197) 
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/pratik0197)](https://github.com/pratik0197)
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
   
