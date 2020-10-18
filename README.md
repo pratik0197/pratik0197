@@ -1,4 +1,4 @@
-### Pratik Priyadarsan 🤠
+### Hey There, I am Pratik 🤠
 
 <a href="https://twitter.com/pratikirsh">
 <img align="left" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -34,6 +34,10 @@ can to the open source community. I am deeply in love with Javascript, Machine L
 - Member at CodeRed NITR
 - Crio.Do Developer Advocate
 - Incoming SDE Intern at one of the biggest tech companies of the world
+
+
+## Languages :
+[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/pratik0197)](https://github.com/pratik0197)
 
 ## Technologies :fire:
 - React⚛️
