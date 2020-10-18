@@ -47,3 +47,9 @@ can to the open source community. I am deeply in love with Javascript, Machine L
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=pratik0197&&show_icons=true&theme=radical&line_height=27&v=5" alt="Pratik's GitHub Stats" />
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/pratik0197/count.svg" />
+</p>
