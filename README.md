@@ -39,4 +39,4 @@ can to the open source community. I am deeply in love with Javascript, Machine L
 - React⚛️
 - Nodejs :nodejs:,Express :express: 
 - MongoDB, mySQL
-- Flutter :dartlang:
+- Flutter <img src='https://emojis.slackmojis.com/emojis/images/1535719209/4570/dartlang.png?1535719209'/>
