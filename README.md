@@ -26,4 +26,4 @@ MERN Stack Developer | Flutter | Machine Learning
 
 ## About :sunglasses:
 I am a junior year student pursuing B.Tech in Computer Science and Engineering at NIT Rourkela. I am currently trying to contribute as much as I
-can to the open source community. I am deeply in love with Javascript, Machine Learning, Maths and *ahem ahem* . Passionate about development and Data Science (Not the library import guys, a real passionate one :laughing:
+can to the open source community. I am deeply in love with Javascript, Machine Learning, Maths and *ahem ahem* . Passionate about development and Data Science (Not the library import guys, a real passionate one :lol:)
