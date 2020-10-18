@@ -24,7 +24,7 @@
 
 MERN Stack Developer | Flutter | Machine Learning
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" />
 
 ## About :sunglasses:
 I am a junior year student pursuing B.Tech in Computer Science and Engineering at NIT Rourkela. I am currently trying to contribute as much as I
@@ -58,11 +58,6 @@ can to the open source community. I am deeply in love with Javascript, Machine L
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/pratik0197)](https://github.com/pratik0197)
 [![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter&link=https://github.com/pratik0197)](https://github.com/pratik0197)
 
-### Recently I'm coding in...
-
-<a href="https://codestats.net/users/pratik0197">
-  <img src='https://codestats-readme.wegfan.cn/history-graph/pratik0197?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="pratik0197's Code::Stats history graph" />
-</a>
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
   
