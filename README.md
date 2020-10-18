@@ -43,7 +43,7 @@ can to the open source community. I am deeply in love with Javascript, Machine L
 [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/pratik0197)](https://github.com/pratik0197)
 [![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 
-## Tools Technologies :fire:
+## Tools and Technologies :fire:
 
 [![VisualStudio](https://img.shields.io/badge/-Visual-Studio?style=flat&logo=Visual-Studio&link=https://github.com/pratik0197)](https://github.com/pratik0197) 
 [![AndroidStudio](https://img.shields.io/badge/-Android-Studio?style=flat&logo=Android-Studio&link=https://github.com/pratik0197)](https://github.com/pratik0197) 
