@@ -46,6 +46,4 @@ can to the open source community. I am deeply in love with Javascript, Machine L
 - Machine Learning
 
 
-<a href="https://github.com/pratik0197">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik0197&theme=radical" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=pratik0197&&show_icons=true&theme=radical&line_height=27&v=5" alt="Pratik's GitHub Stats" />
