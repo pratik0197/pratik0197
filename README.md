@@ -34,8 +34,6 @@ can to the open source community. I am deeply in love with Javascript, Machine L
 - Member at OpenCode NITR 
 - Member at CodeHub NITR
 - Member at CodeRed NITR
-- Crio.Do Developer Advocate
-- Incoming SDE Intern at one of the biggest tech companies of the world
 
 
 ## Languages :
